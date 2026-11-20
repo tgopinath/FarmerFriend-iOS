@@ -181,6 +181,7 @@
 				INFOPLIST_KEY_CFBundleDisplayName = "FarmerFriend";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "FarmerFriend uses the microphone only when you tap a microphone button.";
 				INFOPLIST_KEY_NSCameraUsageDescription = "FarmerFriend uses the camera only when you choose to take a photo.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FarmerFriend uses your location to show the weather, irrigation and drying forecast for your farm.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Your words are turned into text so you can search by voice.";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -214,6 +215,7 @@
 				INFOPLIST_KEY_CFBundleDisplayName = "FarmerFriend";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "FarmerFriend uses the microphone only when you tap a microphone button.";
 				INFOPLIST_KEY_NSCameraUsageDescription = "FarmerFriend uses the camera only when you choose to take a photo.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "FarmerFriend uses your location to show the weather, irrigation and drying forecast for your farm.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Your words are turned into text so you can search by voice.";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
